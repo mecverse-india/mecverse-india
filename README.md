@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/ORG_NAME/.github/main/profile/assets/Signal.svg" alt="FlowTux · WorkClave · HZRelay" width="100%">
+<img src="https://raw.githubusercontent.com/mecverse-india/mecverse-india/main/assets/signal.svg" alt="FlowTux · WorkClave · HZRelay" width="100%"> 
 
 <br>
 
